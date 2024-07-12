@@ -1,0 +1,49 @@
+body {
+   
+    background-color: #4b90d5;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+  
+    padding: 20px;
+
+    border-radius: 8px;
+    box-shadow: 2px 2px;
+}
+
+.header {
+   
+
+    align-items: center;
+    background-color: #5616e0;
+
+   padding-left: 10px;
+ 
+    color: #ffffff;
+}
+
+.header h1 {
+    margin: 0;
+}
+form {
+    padding: 20px;
+}
+
+form label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 5px;
+}
+
